@@ -7,9 +7,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,docker,nginx,mysql,postgres,sqlite" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,aws,gcp,azure,raspberrypi" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,c++,py,html,css,js,nodejs" />
   </a>
