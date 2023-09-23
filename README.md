@@ -1,2 +1,4 @@
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizu-orient&there=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHubStats](https://github-readme-stats.vercel.app/api?username=mizu-orient&there=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="TopLangs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizu-orient&theme=transparent"/>
+  <img alt="githubStats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mizu-orient&theme=transparent&show_icons=ture"/>
+</p>
